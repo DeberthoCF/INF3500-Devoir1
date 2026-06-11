@@ -302,3 +302,22 @@ button:hover{
         max-width: 100%;
     }
 }
+
+.right-section{
+    position: relative;
+}
+
+.css-badge{
+
+    position: absolute;
+
+    bottom: 10px;
+
+    right: 10px;
+}
+
+.css-badge img{
+
+    width: 88px;
+    height: 31px;
+}
